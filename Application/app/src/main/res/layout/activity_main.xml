@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_marginTop="100dp">
+
+        <Button
+            android:id="@+id/link_scan_btn"
+            android:layout_width="0dp"
+            android:layout_height="250dp"
+            android:layout_weight="1"
+            android:background="@drawable/clip_drawble"
+            />
+
+        <Button
+            android:layout_marginTop="5dp"
+            android:id="@+id/scanQR"
+            android:layout_width="0dp"
+            android:layout_height="240dp"
+            android:layout_weight="1"
+            android:background="@drawable/qr_drawble" />
+    </LinearLayout>
+
+
+
+    <TextView
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="로그아웃"
+        android:layout_marginTop="150dp"/>
+
+
+</LinearLayout>

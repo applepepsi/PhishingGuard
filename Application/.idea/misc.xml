@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PC/Desktop/github/app/src/main/res/layout/activity_inspection_result.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/PC/Desktop/github/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/PC/Desktop/github/app/src/main/res/layout/activity_scan_qr.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/capstone2/app/src/main/res/layout/activity_create_qr.xml" value="0.16995947315096252" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/capstone2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/capstone2/app/src/main/res/layout/activity_scan_qr.xml" value="0.3807291666666667" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable-v24/clip.xml" value="0.231" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable-v24/clip_click.xml" value="0.1545" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2965" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable-v24/nemo.xml" value="0.231" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable-v24/qr.xml" value="0.231" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable-v24/qr_click.xml" value="0.1545" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable-v24/qr_no_click.xml" value="0.1545" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable-v24/rectangle_1.xml" value="0.253" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable-v24/rectangle_click.xml" value="0.1545" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable-v24/rectangle_drawble.xml" value="0.1545" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable-v24/rectangle_no_click.xml" value="0.1545" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable/clip_drawble.xml" value="0.1545" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable/fail.xml" value="0.283" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2095" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable/input_link.xml" value="0.283" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable/qr_drawble.xml" value="0.1545" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable/register_vector.xml" value="0.3605" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable/safe.xml" value="0.283" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable/scan.xml" value="0.253" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable/small_rec.xml" value="0.213" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable/small_rec_click.xml" value="0.1" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/drawable/small_rec_drawble.xml" value="0.1" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/font/font.xml" value="0.2765625" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/layout/activity_inspection_result.xml" value="0.33" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/layout/activity_inspection_result2.xml" value="0.25625" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/layout/activity_logout.xml" value="0.27943840579710144" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/layout/activity_main2.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/layout/activity_scan_link.xml" value="0.25" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/layout/activity_scan_link2.xml" value="0.43125" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/layout/activity_scan_qr.xml" value="0.33242753623188404" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/layout/activity_scan_qr2.xml" value="0.4322916666666667" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/layout/activity_scan_qr3.xml" value="0.4322916666666667" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/xml/login.xml" value="0.26875" />
+        <entry key="..\:/Users/dlaej/AndroidStudioProjects/safeQR/app/src/main/res/xml/newwork_security_config.xml" value="0.1" />
+        <entry key="..\:/Users/dlaej/Downloads/PhishingGuard_git/Application/app/src/main/res/layout/activity_login.xml" value="0.3072916666666667" />
+        <entry key="..\:/Users/dlaej/Downloads/PhishingGuard_git/Application/app/src/main/res/layout/activity_scan_qr.xml" value="0.3072916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
